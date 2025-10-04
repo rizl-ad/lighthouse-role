@@ -13,7 +13,7 @@ Role Variables
 Example Playbook
 ----------------
 
-'''
+```
 - name 'Play name'   
   hosts: servers   
   roles:   
