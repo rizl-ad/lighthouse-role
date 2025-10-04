@@ -13,10 +13,12 @@ Role Variables
 Example Playbook
 ----------------
 
-```- name 'Play name'   
+'''
+- name 'Play name'   
   hosts: servers   
   roles:   
-    - lighthouse```
+    - lighthouse
+```
 
 License
 -------
